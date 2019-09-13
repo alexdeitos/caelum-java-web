@@ -94,6 +94,7 @@ textarea {
 				name="dataNascimento" /><br />
 			<button class="button" type="submit">Gravar</button>
 			<button class="button"><a href="listagemContatos.jsp" target="blank">ListaClientes</a> </button>
+			<button class="button"><a href="listaJSTL.jsp" target="blank">ListaClientes pelo JSTL</a> </button>
 		</form>
 	</div>
 	
